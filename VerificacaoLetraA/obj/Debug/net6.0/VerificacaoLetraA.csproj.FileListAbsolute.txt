@@ -1,0 +1,14 @@
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\bin\Debug\net6.0\VerificacaoLetraA.exe
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\bin\Debug\net6.0\VerificacaoLetraA.deps.json
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\bin\Debug\net6.0\VerificacaoLetraA.runtimeconfig.json
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\bin\Debug\net6.0\VerificacaoLetraA.dll
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\bin\Debug\net6.0\VerificacaoLetraA.pdb
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.AssemblyInfoInputs.cache
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.AssemblyInfo.cs
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.csproj.CoreCompileInputs.cache
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.dll
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\refint\VerificacaoLetraA.dll
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.pdb
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\VerificacaoLetraA.genruntimeconfig.cache
+C:\Users\PSenc\source\repos\VerificacaoLetraA\VerificacaoLetraA\obj\Debug\net6.0\ref\VerificacaoLetraA.dll
